@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sicilia/static/css/main.e77e7935.css",
+    "main.js": "/sicilia/static/js/main.9af1dd8d.js",
+    "index.html": "/sicilia/index.html",
+    "main.e77e7935.css.map": "/sicilia/static/css/main.e77e7935.css.map",
+    "main.9af1dd8d.js.map": "/sicilia/static/js/main.9af1dd8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77e7935.css",
+    "static/js/main.9af1dd8d.js"
+  ]
+}
