@@ -1,0 +1,229 @@
+.rectangle2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 3.14px;
+  background-color: var(--color-white);
+  box-shadow: 0 3.8931150436401367px 23.36px rgba(189, 189, 189, 0.23);
+  width: 283px;
+  height: 337px;
+}
+.naxos-archeological-park {
+  position: absolute;
+  top: 137px;
+  left: 17px;
+  line-height: 144%;
+  display: inline-block;
+  width: 250px;
+  height: 22px;
+}
+.taormina-teatro-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 1.57px 1.57px 0 0;
+  width: 283px;
+  height: 123px;
+  object-fit: cover;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 283px;
+  height: 337px;
+}
+.four-options-item {
+  position: absolute;
+  top: 6.13px;
+  left: 6px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-navajowhite);
+  width: 247px;
+  height: 92px;
+}
+.starting-time1 {
+  margin: 0;
+  font-weight: 900;
+}
+.flexible1 {
+  margin: 0;
+  font-weight: 300;
+}
+.availability-whole-year1,
+.duration-5-to-15-container1,
+.personal-guide-yes1,
+.starting-time-flexible1 {
+  position: absolute;
+  top: 14px;
+  left: 40px;
+  line-height: 144%;
+  display: inline-block;
+  width: 68px;
+  height: 32px;
+}
+.availability-whole-year1,
+.duration-5-to-15-container1,
+.personal-guide-yes1 {
+  top: 58px;
+  width: 106px;
+}
+.availability-whole-year1,
+.personal-guide-yes1 {
+  top: 14px;
+  left: 166px;
+  width: 68px;
+}
+.personal-guide-yes1 {
+  top: 58px;
+  width: 77px;
+}
+.calendar-icon1,
+.clock-icon1,
+.info-icon1,
+.users-icon1 {
+  position: absolute;
+  top: 22px;
+  left: 20px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.calendar-icon1,
+.clock-icon1,
+.users-icon1 {
+  top: 66px;
+  left: 19px;
+}
+.calendar-icon1,
+.users-icon1 {
+  top: 22px;
+  left: 146px;
+}
+.users-icon1 {
+  top: 65px;
+}
+.four-options1 {
+  top: 169px;
+  left: 11px;
+  width: 253px;
+  height: 98px;
+  font-size: 11.39px;
+  color: var(--color-black);
+}
+.div2,
+.four-options1,
+.hotel2 {
+  position: absolute;
+}
+.hotel2 {
+  top: 0;
+  left: 0;
+  box-shadow: var(--shadow);
+  width: 283px;
+  height: 337px;
+}
+.div2 {
+  top: 14.8px;
+  left: 36.66px;
+  line-height: 144%;
+  font-weight: 900;
+  display: inline-block;
+  width: 33.72px;
+  height: 26.2px;
+}
+.card-best-child,
+.from1,
+.group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70.41px;
+}
+.from1 {
+  font-size: 11.39px;
+  line-height: 144%;
+  font-weight: 300;
+  display: inline-block;
+  height: 26.54px;
+}
+.card-best-child,
+.group {
+  height: 41px;
+}
+.card-best-child {
+  top: 296px;
+  left: 202px;
+  text-align: right;
+  font-size: 14.13px;
+  color: var(--dark-blue);
+}
+.group-inner {
+  border-radius: 3.14px;
+  background-color: var(--color-chocolate-100);
+}
+.group-inner,
+.rectangle-frame,
+.review-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.review-child {
+  height: 89.81%;
+  width: 24.07%;
+  top: 7.31%;
+  right: 75.93%;
+  bottom: 2.88%;
+}
+.div3,
+.reviews1 {
+  position: absolute;
+  height: 45.14%;
+  width: 13.81%;
+  top: 29.67%;
+  left: 4.89%;
+  font-weight: 900;
+  display: inline-block;
+}
+.reviews1 {
+  top: 0;
+  left: 39.38px;
+  font-size: 11.39px;
+  line-height: 144%;
+  font-weight: 300;
+  color: var(--dark-blue);
+  text-align: left;
+  width: 62px;
+  height: 30.6px;
+}
+.review1,
+.stars-icon1 {
+  position: absolute;
+  top: 14.73px;
+  left: 39.38px;
+  width: 91px;
+  height: 16.28px;
+}
+.review1 {
+  top: 296px;
+  left: 14px;
+  width: 130.38px;
+  height: 31.01px;
+  text-align: center;
+  font-size: 12.56px;
+  color: var(--color-white);
+}
+.card-best1 {
+  position: relative;
+  width: 100%;
+  height: 337px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-chocolate-100);
+  font-family: var(--font-lato);
+}

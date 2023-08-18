@@ -1,0 +1,147 @@
+.did-you-know,
+.history,
+.how-to-get,
+.jump-to-chapter,
+.whats-hot {
+  position: absolute;
+  left: 0;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  width: 163px;
+  height: 14px;
+}
+.jump-to-chapter {
+  top: 0;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.did-you-know,
+.history,
+.how-to-get,
+.whats-hot {
+  top: 46px;
+}
+.did-you-know,
+.history,
+.whats-hot {
+  top: 84px;
+}
+.did-you-know,
+.whats-hot {
+  top: 122px;
+}
+.whats-hot {
+  top: 160px;
+}
+.popular-attraction {
+  margin: 0;
+}
+.popular-attraction-nearby-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.google-reviews,
+.popular-attraction-nearby-container,
+.quick-facts2,
+.tripadvisor-reviews {
+  position: absolute;
+  top: 198px;
+  left: 0;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  width: 205px;
+  height: 35px;
+}
+.google-reviews,
+.quick-facts2,
+.tripadvisor-reviews {
+  top: 257px;
+  height: 13px;
+}
+.google-reviews,
+.tripadvisor-reviews {
+  top: 294px;
+}
+.google-reviews {
+  top: 331px;
+}
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 3.14px;
+  background-color: var(--color-white);
+  box-shadow: 0 3.8931150436401367px 23.36px rgba(189, 189, 189, 0.23);
+  width: 214px;
+  height: 177px;
+}
+.favignana-tuna-fishing {
+  position: absolute;
+  top: 104px;
+  left: 31px;
+  line-height: 144%;
+  display: inline-block;
+  width: 152px;
+  height: 22px;
+}
+.rectangle-parent {
+  top: 0;
+  height: 177px;
+}
+.group-child,
+.hotel,
+.rectangle-parent {
+  position: absolute;
+  left: 0;
+  width: 214px;
+}
+.hotel {
+  top: 398px;
+  box-shadow: var(--shadow);
+  height: 177px;
+  font-size: var(--font-size-3xl);
+}
+.group-child {
+  top: 185px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-chocolate-100);
+  height: 58px;
+}
+.search {
+  position: absolute;
+  width: 61.21%;
+  top: calc(50% + 79.5px);
+  left: 19.63%;
+  font-weight: 500;
+  display: inline-block;
+}
+.mattanza-2-icon,
+.rectangle-group {
+  position: absolute;
+  left: 0;
+  width: 214px;
+}
+.mattanza-2-icon {
+  top: 0;
+  border-radius: 1.57px 1.57px 0 0;
+  height: 88px;
+  object-fit: cover;
+}
+.rectangle-group {
+  top: 399px;
+  height: 243px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.left {
+  position: relative;
+  width: 50%;
+  height: 642px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-chocolate-100);
+  font-family: var(--font-lato);
+}

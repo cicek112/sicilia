@@ -1,0 +1,228 @@
+.rectangle-icon,
+.rectangle3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 283px;
+}
+.rectangle3 {
+  border-radius: 3.14px;
+  background-color: var(--color-white);
+  box-shadow: 0 3.8931150436401367px 23.36px rgba(189, 189, 189, 0.23);
+  height: 337px;
+}
+.rectangle-icon {
+  border-radius: 1.57px 1.57px 0 0;
+  height: 123px;
+  object-fit: cover;
+}
+.temple-of-valley {
+  position: absolute;
+  top: 137px;
+  left: 62px;
+  line-height: 144%;
+  display: inline-block;
+  width: 160px;
+  height: 22px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 283px;
+  height: 337px;
+}
+.four-options-inner {
+  position: absolute;
+  top: 6.13px;
+  left: 6px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-navajowhite);
+  width: 247px;
+  height: 92px;
+}
+.starting-time2 {
+  margin: 0;
+  font-weight: 900;
+}
+.flexible2 {
+  margin: 0;
+  font-weight: 300;
+}
+.availability-whole-year2,
+.duration-5-to-15-container2,
+.personal-guide-yes2,
+.starting-time-flexible2 {
+  position: absolute;
+  top: 14px;
+  left: 40px;
+  line-height: 144%;
+  display: inline-block;
+  width: 68px;
+  height: 32px;
+}
+.availability-whole-year2,
+.duration-5-to-15-container2,
+.personal-guide-yes2 {
+  top: 58px;
+  width: 106px;
+}
+.availability-whole-year2,
+.personal-guide-yes2 {
+  top: 14px;
+  left: 166px;
+  width: 68px;
+}
+.personal-guide-yes2 {
+  top: 58px;
+  width: 77px;
+}
+.calendar-icon2,
+.clock-icon2,
+.info-icon2,
+.users-icon2 {
+  position: absolute;
+  top: 22px;
+  left: 20px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.calendar-icon2,
+.clock-icon2,
+.users-icon2 {
+  top: 66px;
+  left: 19px;
+}
+.calendar-icon2,
+.users-icon2 {
+  top: 22px;
+  left: 146px;
+}
+.users-icon2 {
+  top: 65px;
+}
+.four-options2 {
+  top: 169px;
+  left: 11px;
+  width: 253px;
+  height: 98px;
+  font-size: 11.39px;
+  color: var(--color-black);
+}
+.div4,
+.four-options2,
+.hotel3 {
+  position: absolute;
+}
+.hotel3 {
+  top: 0;
+  left: 0;
+  box-shadow: var(--shadow);
+  width: 283px;
+  height: 337px;
+}
+.div4 {
+  top: 14.8px;
+  left: 36.66px;
+  line-height: 144%;
+  font-weight: 900;
+  display: inline-block;
+  width: 33.72px;
+  height: 26.2px;
+}
+.card-best-inner1,
+.container,
+.from2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70.41px;
+}
+.from2 {
+  font-size: 11.39px;
+  line-height: 144%;
+  font-weight: 300;
+  display: inline-block;
+  height: 26.54px;
+}
+.card-best-inner1,
+.container {
+  height: 41px;
+}
+.card-best-inner1 {
+  top: 296px;
+  left: 202px;
+  text-align: right;
+  font-size: 14.13px;
+  color: var(--dark-blue);
+}
+.rectangle-div {
+  border-radius: 3.14px;
+  background-color: var(--color-chocolate-100);
+}
+.rectangle-div,
+.rectangle-wrapper1,
+.review-inner1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.review-inner1 {
+  height: 89.81%;
+  width: 24.07%;
+  top: 7.31%;
+  right: 75.93%;
+  bottom: 2.88%;
+}
+.div5,
+.reviews2 {
+  position: absolute;
+  height: 45.14%;
+  width: 13.81%;
+  top: 29.67%;
+  left: 4.89%;
+  font-weight: 900;
+  display: inline-block;
+}
+.reviews2 {
+  top: 0;
+  left: 39.38px;
+  font-size: 11.39px;
+  line-height: 144%;
+  font-weight: 300;
+  color: var(--dark-blue);
+  text-align: left;
+  width: 62px;
+  height: 30.6px;
+}
+.review2,
+.stars-icon2 {
+  position: absolute;
+  top: 14.73px;
+  left: 39.38px;
+  width: 91px;
+  height: 16.28px;
+}
+.review2 {
+  top: 296px;
+  left: 14px;
+  width: 130.38px;
+  height: 31.01px;
+  text-align: center;
+  font-size: 12.56px;
+  color: var(--color-white);
+}
+.card-best2 {
+  position: relative;
+  width: 100%;
+  height: 337px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-chocolate-100);
+  font-family: var(--font-lato);
+}

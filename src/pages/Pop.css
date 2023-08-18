@@ -1,0 +1,217 @@
+.best-place-to,
+.popular-experiences-in {
+  position: absolute;
+  line-height: 36px;
+  color: var(--color-chocolate-100);
+  display: flex;
+  align-items: center;
+}
+.popular-experiences-in {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  width: 680px;
+  height: 50px;
+}
+.best-place-to {
+  top: 580px;
+  left: 9px;
+  font-size: 24px;
+  width: 566px;
+  height: 18px;
+}
+.image-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4.64px;
+  width: 220.05px;
+  height: 238px;
+  object-fit: cover;
+}
+.los-angeles,
+.los-angeles1,
+.los-angeles2 {
+  position: absolute;
+  top: 96.75px;
+  left: 28.84px;
+  line-height: 108%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 157.03px;
+  height: 33.86px;
+  text-shadow: 0 4.172674655914307px 10.43px rgba(0, 0, 0, 0.3);
+}
+.los-angeles1,
+.los-angeles2 {
+  top: 122.53px;
+  left: 28.83px;
+  font-size: var(--font-size-3xs);
+}
+.los-angeles2 {
+  top: 151.71px;
+  font-size: var(--font-size-xs);
+  width: 156.71px;
+  height: 16.67px;
+}
+.map-pin-icon,
+.phone-call-icon {
+  position: absolute;
+  top: 130.04px;
+  left: 13.83px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.phone-call-icon {
+  top: 153.37px;
+  left: 50.51px;
+}
+.deal {
+  position: absolute;
+  top: 614px;
+  left: 240px;
+  box-shadow: var(--shadow);
+  width: 220.05px;
+  height: 238px;
+  text-align: center;
+}
+.los-angeles3 {
+  position: absolute;
+  top: 76.74px;
+  left: 28.84px;
+  line-height: 108%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 157.03px;
+  height: 33.86px;
+  text-shadow: 0 4.172674655914307px 10.43px rgba(0, 0, 0, 0.3);
+}
+.map-pin-icon1 {
+  position: absolute;
+  top: 130.04px;
+  left: 14.66px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.deal1 {
+  position: absolute;
+  top: 614px;
+  left: 476px;
+  box-shadow: var(--shadow);
+  width: 220.05px;
+  height: 238px;
+  text-align: center;
+}
+.image-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4.64px;
+  width: 219.61px;
+  height: 237.52px;
+  object-fit: cover;
+}
+.los-angeles6,
+.los-angeles7,
+.los-angeles8 {
+  position: absolute;
+  top: 96.55px;
+  left: 28.78px;
+  line-height: 108%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 156.71px;
+  height: 33.79px;
+  text-shadow: 0 4.172674655914307px 10.43px rgba(0, 0, 0, 0.3);
+}
+.los-angeles7,
+.los-angeles8 {
+  top: 122.29px;
+  font-size: var(--font-size-3xs);
+}
+.los-angeles8 {
+  top: 151.4px;
+  font-size: var(--font-size-xs);
+  width: 156.39px;
+  height: 16.64px;
+}
+.map-pin-icon2,
+.phone-call-icon2 {
+  position: absolute;
+  top: 129.77px;
+  left: 17.13px;
+  width: 14.97px;
+  height: 14.97px;
+  overflow: hidden;
+}
+.phone-call-icon2 {
+  top: 153.07px;
+  left: 50.41px;
+}
+.deal2 {
+  position: absolute;
+  top: 614px;
+  left: 4px;
+  box-shadow: var(--shadow);
+  width: 219.61px;
+  height: 237.52px;
+  text-align: center;
+}
+.view-all1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 60px;
+  font-weight: 600;
+  mix-blend-mode: normal;
+}
+.view-all,
+.view-all-child {
+  position: absolute;
+  top: 25px;
+  left: 74px;
+  width: 6px;
+  height: 11px;
+}
+.view-all {
+  height: 7.04%;
+  width: 11.19%;
+  top: 65.73%;
+  right: 1.56%;
+  bottom: 27.23%;
+  left: 87.25%;
+  font-size: 17px;
+  color: var(--color-darkorange-100);
+}
+.mapsicle-map-icon {
+  position: absolute;
+  top: 66px;
+  left: 4px;
+  width: 702px;
+  height: 470px;
+  object-fit: cover;
+}
+.popular-experiences {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 706px;
+  height: 852px;
+}
+.pop {
+  position: relative;
+  width: 100%;
+  height: 852px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}

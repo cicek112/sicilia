@@ -1,0 +1,127 @@
+.generic-title,
+.lorem-ipsum-dolor1,
+.related-story {
+  position: absolute;
+  top: 0;
+  line-height: 36px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 163px;
+  height: 14px;
+}
+.related-story {
+  left: 0;
+  font-size: var(--font-size-3xl);
+  color: var(--color-chocolate-100);
+}
+.generic-title,
+.lorem-ipsum-dolor1 {
+  left: 128px;
+}
+.lorem-ipsum-dolor1 {
+  top: 22px;
+  font-size: var(--font-size-base);
+  line-height: 21.5px;
+  font-weight: 300;
+  width: 213px;
+  height: 59px;
+}
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  width: 112px;
+  height: 88px;
+  object-fit: cover;
+}
+.generic-title-container,
+.generic-title-group,
+.generic-title-parent {
+  position: absolute;
+  top: 46px;
+  left: 0;
+  width: 341px;
+  height: 88px;
+}
+.generic-title-container,
+.generic-title-group {
+  top: 166px;
+}
+.generic-title-container {
+  top: 286px;
+}
+.right-child,
+.right-item {
+  position: absolute;
+  top: 149.75px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--color-chocolate-200);
+  box-sizing: border-box;
+  width: 323.5px;
+  height: 0.5px;
+}
+.right-item {
+  top: 269.75px;
+}
+.generic-title-parent1,
+.group-div {
+  position: absolute;
+  top: 406px;
+  left: 0;
+  width: 341px;
+  height: 88px;
+}
+.generic-title-parent1 {
+  top: 526px;
+}
+.line-div,
+.right-inner {
+  position: absolute;
+  top: 389.75px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--color-chocolate-200);
+  box-sizing: border-box;
+  width: 323.5px;
+  height: 0.5px;
+}
+.line-div {
+  top: 509.75px;
+}
+.view-all2 {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+  height: 14px;
+}
+.clarityangle-line-icon {
+  position: absolute;
+  top: 0;
+  left: 76px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.view-all-parent {
+  position: absolute;
+  top: 635px;
+  left: 0;
+  width: 112px;
+  height: 36px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-chocolate-100);
+}
+.right {
+  position: relative;
+  width: 60%;
+  height: 671px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

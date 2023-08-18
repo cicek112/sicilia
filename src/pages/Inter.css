@@ -1,0 +1,113 @@
+.other-interesting-articles1 {
+  position: absolute;
+  height: 8.19%;
+  width: 34.87%;
+  top: 0;
+  left: 33.25%;
+  font-size: var(--font-size-17xl);
+  line-height: 50px;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.divider-icon {
+  position: absolute;
+  height: 0.46%;
+  width: 21.67%;
+  top: 9.95%;
+  right: 39.07%;
+  bottom: 89.6%;
+  left: 39.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 261px;
+  height: 332px;
+  object-fit: cover;
+}
+.what-to-do {
+  margin: 0;
+}
+.what-to-do-container {
+  position: absolute;
+  top: 54.71%;
+  left: 0;
+  font-size: var(--font-size-lgi);
+  line-height: 30px;
+  mix-blend-mode: normal;
+}
+.find-out-what {
+  width: 100%;
+  top: 71.08%;
+  line-height: 26px;
+  color: var(--color-slategray);
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.blog01,
+.find-out-what,
+.read-more {
+  position: absolute;
+  left: 0;
+}
+.read-more {
+  width: 100%;
+  top: 93.72%;
+  line-height: 28px;
+  font-weight: 600;
+  color: var(--color-darkorange-100);
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.blog01 {
+  top: 79px;
+  width: 266px;
+  height: 446px;
+}
+.the-many-benefits-container {
+  position: absolute;
+  top: 54.71%;
+  left: 0;
+  font-size: var(--font-size-lgi);
+  line-height: 30px;
+  white-space: pre-wrap;
+  mix-blend-mode: normal;
+}
+.blog011,
+.blog012,
+.blog013 {
+  position: absolute;
+  top: 79px;
+  left: 302px;
+  width: 266px;
+  height: 446px;
+}
+.blog012,
+.blog013 {
+  left: 604px;
+}
+.blog013 {
+  left: 907px;
+}
+.other-interesting-articles {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.inter {
+  position: relative;
+  width: 100%;
+  height: 525px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

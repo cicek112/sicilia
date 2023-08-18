@@ -1,0 +1,83 @@
+.hot1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 716px;
+  height: 766px;
+}
+.lorem-ipsum-dolor,
+.whats-hot1 {
+  position: absolute;
+  top: 66px;
+  left: 5px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  width: 696px;
+  height: 198px;
+}
+.whats-hot1 {
+  top: 0;
+  font-size: var(--font-size-17xl);
+  color: var(--color-chocolate-100);
+  width: 279px;
+  height: 50px;
+}
+.mattanza-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 702px;
+  height: 359px;
+  object-fit: cover;
+}
+.carbonplay-filled-alt-icon {
+  position: absolute;
+  top: 129.13px;
+  left: 299.19px;
+  width: 97.69px;
+  height: 100.75px;
+  overflow: hidden;
+}
+.mattanza-1-parent {
+  position: absolute;
+  top: 296px;
+  left: 7px;
+  width: 702px;
+  height: 359px;
+}
+.discovering-favignana {
+  color: var(--color-chocolate-100);
+}
+.see-also-discovering-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.see-also-discovering-container {
+  position: absolute;
+  top: 727px;
+  left: 25px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  width: 696px;
+  height: 15px;
+}
+.hot-child {
+  position: absolute;
+  top: 702.75px;
+  left: 6.75px;
+  border-top: 0.5px solid var(--color-chocolate-200);
+  box-sizing: border-box;
+  width: 694.5px;
+  height: 0.5px;
+}
+.hot {
+  position: relative;
+  width: 100%;
+  height: 766px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
